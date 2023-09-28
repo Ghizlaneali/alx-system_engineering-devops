@@ -1,2 +1,2 @@
-#!/bon/bash
-mkdir -r welcome, mkdir -r to, mkdir school
+#!/bin/bash
+mkdir school > mkdir to > mkdir welcome
