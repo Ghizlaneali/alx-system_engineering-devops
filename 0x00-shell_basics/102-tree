@@ -1,3 +1,2 @@
 #!/bin/bash
-> root_dir="/welcome/to/school"
-> mkdir -p /welcome/to/school
+root_dir="/welcome/to/school"; mkdir -p /welcome/to/school
